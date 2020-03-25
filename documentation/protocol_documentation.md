@@ -45,7 +45,7 @@ OK: Send only
 
 **Flight Computer (Raspberry Pi)**
 The Flight Computer does the bulk of the calculations: 
-•	Decode NEMA from GPS
+Decode NEMA from GPS
 •	Packet Generation for ECU and Transceiver
 •	Create Heartbeat for ECU
 •	Create Heartbeat for Transceiver
